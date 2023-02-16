@@ -4,8 +4,6 @@
 
 このコンテンツは、特に明示されている場合を除いて、次のライセンスに従います。
 
-あいうえおかきくけこ
-
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
